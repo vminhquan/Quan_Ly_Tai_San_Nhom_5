@@ -34,8 +34,5 @@
         'views/thong_ke_tai_san.xml',
         'views/menu.xml',
     ],
-    # only loaded in demonstration mode
-    'demo': [
-        'demo/demo.xml',
-    ],
+    'installable': True,
 }
